@@ -25,6 +25,7 @@
   <project path="development" name="CyanogenMod/android_development" remote="github" />
   <project path="device/common" name="device/common" />
   <project path="device/lge/thunderc" name="inferiorhumanorgans/android_device_lge_thunderc" remote="github" />
+  <project path="vendor/lge/thunderc" name="inferiorhumanorgans/vendor_lge_thunderc" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
   <project path="external/apache-http" name="platform/external/apache-http" />
