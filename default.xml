@@ -20,9 +20,7 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="tvall43/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
-
   <project path="device/common" name="CyanogenMod/android_device_common" />
-<!--
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" />
@@ -127,7 +125,6 @@
   <project path="device/semc/zeus-common" name="CyanogenMod/android_device_semc_zeus-common" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" />
   <project path="device/zte/v9" name="CyanogenMod/android_device_zte_v9" />
--->
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
@@ -242,7 +239,6 @@
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
-<!--
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap3-compat" name="CyanogenMod/android_hardware_ti_omap3-compat" />
   <project path="hardware/ti/omx" name="CyanogenMod/android_hardware_ti_omx" />
@@ -250,7 +246,6 @@
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
--->
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
@@ -323,10 +318,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-
-<!--
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
--->
 
   <project path="vendor/cyanogen" name="inferiorhumanorgans/android_vendor_cyanogen" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
